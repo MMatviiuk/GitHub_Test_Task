@@ -19,4 +19,5 @@ To achieve this, the pipeline consists of:
 
 A NER model to extract animal names from text (using a transformer-based approach).
 An image classification model trained on a dataset with at least 10 animal classes.
+
 More details can be found in the corresponding folder.
