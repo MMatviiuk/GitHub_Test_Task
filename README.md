@@ -6,7 +6,7 @@ Feed-Forward Neural Network
 Convolutional Neural Network
 Each model is implemented as a separate class following the MnistClassifierInterface, which includes train and predict methods. The models are encapsulated within the MnistClassifier class, which takes an algorithm name (cnn, rf, nn) as input and provides predictions using a unified interface.
 
-More details can be found in the corresponding folder.
+More details can be found in the Task_1_Image_Classification folder.
 
 **Task 2: Named Entity Recognition + Image Classification**
 
@@ -20,4 +20,4 @@ To achieve this, the pipeline consists of:
 A NER model to extract animal names from text (using a transformer-based approach).
 An image classification model trained on a dataset with at least 10 animal classes.
 
-More details can be found in the corresponding folder.
+More details can be found in the Task_2_Image_Classification folder.
