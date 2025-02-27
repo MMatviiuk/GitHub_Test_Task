@@ -79,7 +79,7 @@ classifier_nn = MnistClassifier(algorithm='nn')  # Feed-Forward Neural Network
 
 ---
 
-## 🧪 **Models Implemented**
+##  **Models Implemented**
 
 | Algorithm              | Accuracy | Key Features                       |
 | ---------------------- | -------- | ---------------------------------- |
